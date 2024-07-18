@@ -1,0 +1,112 @@
+*{
+    /* background-color: rgb(230, 234, 237); */
+    background-color: #f0f2f5;
+    margin: 0;
+}
+#home{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+#firstdiv{
+    width: 60%;
+    height: 100vh;
+}
+#secdiv{
+    width: 40%;
+    height: 100vh;
+}
+#firstdiv img{
+    height: 150px;
+    margin-bottom: -4%;
+}
+#facebook{
+    height: 10px;
+    width: 20px;
+    margin-top: 17%;
+    margin-left: 29%;
+}
+#firstdiv p{
+    font-size: 27px;
+    padding-left: 29%;
+    padding-top: 12%;
+    font-family: Regular, Helvetica, Arial, sans-serif;;
+}
+#box{
+    margin-top: 22%;
+    margin-left: -12%;
+    background-color: rgb(255, 255, 255);
+    height: 345px;
+    width: 380px;
+    border: 0px solid;
+    box-shadow: 200px;
+    border-color: rgb(226, 224, 224);
+    border-radius: 10px;
+    padding:8px 8px 8px 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    
+}
+#innerbox{
+    width: 355px;
+    height: 50px;
+    margin: 6px;
+    padding-left: 10px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    border-radius: 6px;
+    border-color: rgb(226, 224, 224);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#submitbutton{
+    border: none;
+    background-color: #0866ff;
+    color: white;
+    border-radius: 6px;
+    width: 368px;
+    height: 50px;
+    margin: 6px;
+    font-size: 21px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#submitbutton:hover{
+    cursor: pointer;
+}
+#password{
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    color:  #0866ff;
+    font-size: 15px;
+    margin-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#password:hover{
+    text-decoration: underline;
+}
+#newaccnt{
+    border: none;
+    text-decoration: none;
+    background-color: #42b72a;
+    color: white;
+    border-radius: 6px;
+    padding: 14px;
+    margin-left: 93px;
+    height: 280px;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#newaccnt:hover{
+    background-color: #3fab29;
+}
+#newpage{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: -40px;
+    
+}
+#secdiv span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}

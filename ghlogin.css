@@ -1,0 +1,123 @@
+*{
+    /* background-color: black */
+    margin: 0;
+}
+#firstdiv{
+    height: 90px;
+    width: 799px;
+    padding-left: 48%;
+    padding-top: 23px;
+    background-color:  #000000;
+}
+#icon{
+    height: 55px;
+    width: 63px;
+    align-self: center;
+    margin-top: 7px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#icon i{
+    margin-top: -11px;
+    margin-left: -6px;
+}
+#secdiv{
+    height: 40px;
+    width: 100%;
+    background-color: #000000;
+}
+#secdiv p{
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    /* margin-top: -10px; */
+    letter-spacing: -0.5px;
+    font-family:serif sans-serif;
+}
+#divthree{
+    height: 569px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    padding-top: 0.5%;
+}
+#box1{
+    width: 266px;
+    height: 190px;
+    margin-left: 40%;
+    border: 0.5px solid rgb(50, 49, 49);
+    border-radius: 4px;
+    padding: 15px 16px;
+    background-color: rgb(19, 19, 19);
+}
+.label{
+    font-size: 13px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subbox{
+    margin-top: 7px;
+    border-radius: 6px;
+    border: 1px solid rgb(49, 48, 48);
+    height: 29px;
+    padding-left: 10px;
+    width: 250px;
+    background-color: rgb(19, 19, 19);
+}
+#forgotpass{
+    color: rgb(90, 137, 207);
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    text-decoration: none;
+    color: white;
+    background-color:#0b9033 ;
+    font-weight: 600;
+    padding: 7px;
+    height: 35px;
+    width: 265px;
+    border: none;
+    border-radius: 6px;
+    text-align: center;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #37a421;
+}
+#box2{
+    width: 266px;
+    height: 50px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left: 40%;
+    margin-top: 1%;
+    border: 0.5px solid rgb(50, 49, 49);
+    border-radius: 4px;
+    padding: 20px 16px;
+    background-color: rgb(19, 19, 19);
+    font-size: 13px;
+}
+#box2 a{
+    color: rgb(90, 137, 207);
+    text-decoration: none;
+}
+#box2 a:hover{
+    text-decoration: underline;
+}
+#box2 span{
+    color: white;
+}
+#div4{
+    height: 90px;
+    width: 799px;
+    padding-left: 31%;
+    padding-top: 71px;
+    background-color: rgb(0, 0, 0);
+    font-size: 11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.links{
+    text-decoration: none;
+    color: rgb(141, 144, 146);
+}
